@@ -1,4 +1,4 @@
-const myImage = document.querySelector('img')
+/* const myImage = document.querySelector('img')
 
 myImage.onclick = () => {
   const mySrc = myImage.getAttribute('src')
@@ -32,3 +32,4 @@ if (!localStorage.getItem('name')) {
 myButton.onclick = () => {
   setUserName()
 }
+*/
